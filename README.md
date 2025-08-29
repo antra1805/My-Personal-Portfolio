@@ -1,8 +1,8 @@
-My Personal Portfolio Website 🌐✨
+**My Personal Portfolio Website** 🌐✨
 
 A responsive and modern portfolio showcasing my projects, skills, and achievements. Built with HTML, CSS, and JavaScript, and deployed on Vercel for seamless hosting.
 
-📋 Features
+📋 **Features - **
 
 🎨 Responsive design for all screen sizes
 
@@ -12,7 +12,7 @@ A responsive and modern portfolio showcasing my projects, skills, and achievemen
 
 🌍 Live deployment via Vercel
 
-⚡ Tech Stack
+⚡ **Tech Stack - ** 
 
 Frontend: HTML, CSS, JavaScript (or React/Vite if it’s React-based)
 
